@@ -1,3 +1,3 @@
-## [devfest]()
+## DevFest Luanda 2019
 
-A developer conference for the community and by the community in the Rift Valley, Kenya.
+Official page for **#DevFestLuanda 2019** 
